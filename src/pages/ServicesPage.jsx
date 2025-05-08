@@ -289,10 +289,12 @@ export default function ServicesPage() {
               </div>
               
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                {/* Değer 1 */}
+                {/* Değer 1 - Misyonumuz */}
                 <div className="bg-white rounded-xl overflow-hidden shadow-lg border border-blue-100 transition-all duration-300 hover:shadow-xl hover:-translate-y-1">
-                  <div className="h-48 bg-blue-50">
-                    <img src="/public/images/blog4.png" alt="Misyonumuz" className="w-full h-full object-cover" />
+                  <div className="h-48 bg-blue-50 flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-24 w-24 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                    </svg>
                   </div>
                   <div className="p-6">
                     <h3 className="text-xl font-bold mb-2 text-primary">Misyonumuz</h3>
@@ -302,10 +304,15 @@ export default function ServicesPage() {
                   </div>
                 </div>
                 
-                {/* Değer 2 */}
+                {/* Değer 2 - Kolay Ulaşım */}
                 <div className="bg-white rounded-xl overflow-hidden shadow-lg border border-blue-100 transition-all duration-300 hover:shadow-xl hover:-translate-y-1">
-                  <div className="h-48 bg-blue-50">
-                    <img src="/public/images/blog5.png" alt="Kolay Ulaşım" className="w-full h-full object-cover" />
+                  <div className="h-48 bg-blue-50 flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-24 w-24 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M3 10h18" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M7 15h.01M11 15h.01M15 15h.01" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M8 6h8l1 9a4 4 0 01-4 4h-2a4 4 0 01-4-4l1-9z" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M8 6a2 2 0 11-4 0 2 2 0 014 0zM20 6a2 2 0 11-4 0 2 2 0 014 0z" />
+                    </svg>
                   </div>
                   <div className="p-6">
                     <h3 className="text-xl font-bold mb-2 text-primary">Kolay Ulaşım</h3>
@@ -315,10 +322,17 @@ export default function ServicesPage() {
                   </div>
                 </div>
                 
-                {/* Değer 3 */}
+                {/* Değer 3 - Kaliteli İçecek */}
                 <div className="bg-white rounded-xl overflow-hidden shadow-lg border border-blue-100 transition-all duration-300 hover:shadow-xl hover:-translate-y-1">
-                  <div className="h-48 bg-blue-50">
-                    <img src="/public/images/blog6.png" alt="Kaliteli İçecek" className="w-full h-full object-cover" />
+                  <div className="h-48 bg-blue-50 flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-24 w-24 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M8 10h8l-1 9a2 2 0 01-2 2h-2a2 2 0 01-2-2l-1-9z" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M8 10V7a1 1 0 011-1h6a1 1 0 011 1v3" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M10 14.5h4" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M9 4V3h6v1" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M10.5 2.5v1M13.5 2.5v1" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.2} d="M12 14v3" />
+                    </svg>
                   </div>
                   <div className="p-6">
                     <h3 className="text-xl font-bold mb-2 text-primary">Kaliteli İçecek</h3>

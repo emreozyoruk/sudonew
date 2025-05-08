@@ -96,7 +96,7 @@ export default function ContactPage() {
               <p className="text-gray-600">
                 <a href="tel:05454045122" className="hover:text-primary transition-colors">0545 404 51 22</a>
                 <br />
-                <a href="mailto:info@sudo.com" className="hover:text-primary transition-colors">info@sudo.com</a>
+                <a href="mailto:sudoturkiye@gmail.com" className="hover:text-primary transition-colors">sudoturkiye@gmail.com</a>
               </p>
             </div>
           </div>
