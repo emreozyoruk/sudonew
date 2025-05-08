@@ -9,10 +9,10 @@ export default function ImageGallery({ folder = 'images', className = '' }) {
   useEffect(() => {
     // Gerçek resimlerimizi kullanıyoruz
     const productImages = [
-      { id: 1, name: '1.png', alt: 'SUDO Su Satma Makinesi 1' },
-      { id: 2, name: '2.png', alt: 'SUDO Su Satma Makinesi 2' },
-      { id: 3, name: '3.png', alt: 'SUDO Su Satma Makinesi 3' },
-      { id: 4, name: '1-removebg-preview.png', alt: 'SUDO C Vitaminli Su' },
+      { id: 1, name: '1.png', alt: 'SUDO İçecek Satma Makinesi 1' },
+      { id: 2, name: '2.png', alt: 'SUDO İçecek Satma Makinesi 2' },
+      { id: 3, name: '3.png', alt: 'SUDO İçecek Satma Makinesi 3' },
+      { id: 4, name: '1-removebg-preview.png', alt: 'SUDO C Vitaminli İçecek' },
     ];
     
     setImages(productImages);

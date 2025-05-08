@@ -22,12 +22,12 @@ export default function FAQPage() {
     {
       category: 'teknik',
       question: 'Cihazın çalışma sistemi nasıldır?',
-      answer: 'SUDO, şehir şebekesinden aldığı suyu NSF sertifikalı endüstriyel filtrelerle zararlı maddelerden arındırır, ardından gelişmiş membran teknolojisiyle derinlemesine temizler. Ardından özel bir filtre aracılığıyla suya, insan sağlığı için gerekli olan faydalı mineralleri geri kazandırır. Son aşamada, dozajlama sistemi ile gıda kodeksine uygun şekilde C vitamini eklenerek zenginleştirilmiş sağlıklı bir içecek sunar.'
+      answer: 'SUDO, şehir şebekesinden aldığı suyu NSF sertifikalı endüstriyel filtrelerle zararlı maddelerden arındırır, ardından gelişmiş membran teknolojisiyle derinlemesine temizler. Ardından özel bir filtre aracılığıyla içeceğe, insan sağlığı için gerekli olan faydalı mineralleri geri kazandırır. Son aşamada, dozajlama sistemi ile gıda kodeksine uygun şekilde C vitamini eklenerek zenginleştirilmiş sağlıklı bir içecek sunar.'
     },
     {
       category: 'ticari',
       question: 'SUDO vitaminli içeceğinizin fiyatı nedir?',
-      answer: 'Fiyatlamamız; 5 lt suda 5 TL, 19 lt suda 20 TL\'dir. Bu fiyat SUDO firması tarafından belirlenir her otomat makinesinde aynı fiyatlandırma uygulanır. Fiyatlandırma bölge il ve ilçelerde farklılık gösterebilir.'
+      answer: 'Fiyatlamamız; 5 lt içecekte 5 TL, 19 lt içecekte 20 TL\'dir. Bu fiyat SUDO firması tarafından belirlenir her otomat makinesinde aynı fiyatlandırma uygulanır. Fiyatlandırma bölge il ve ilçelerde farklılık gösterebilir.'
     },
     {
       category: 'yasal',
@@ -47,7 +47,7 @@ export default function FAQPage() {
     {
       category: 'ticari',
       question: 'Elektrik ve su faturaları kârlılığımı ne ölçüde etkiler?',
-      answer: 'SUDO, sahip olduğu ileri seviye endüstriyel arıtma teknolojisi sayesinde yalnızca 1 litre atık suya karşılık 1 litre içilebilir su üretir. Bu verimlilik oranı, enerji ve su tüketimini minimum seviyede tutarak işletme maliyetlerinizi ciddi oranda düşürür. Tüm sabit ve değişken giderler hesaba katıldığında, sistemin genel işletme yapısı size ortalama %85 net kâr sunar. Yani her 100 TL\'lik satıştan yalnızca 15 TL\'si gider olarak yansırken, geri kalan 85 TL doğrudan cebinize kalır. Düşük sarfiyat – yüksek verim prensibiyle çalışan SUDO, sürdürülebilir bir gelir modeli sunarken, enerji ve su tüketiminde tasarrufun gücünü size kazanca dönüştürme imkânı verir.'
+      answer: 'SUDO, sahip olduğu ileri seviye endüstriyel arıtma teknolojisi sayesinde yalnızca 1 litre atık suya karşılık 1 litre içilebilir içecek üretir. Bu verimlilik oranı, enerji ve su tüketimini minimum seviyede tutarak işletme maliyetlerinizi ciddi oranda düşürür. Tüm sabit ve değişken giderler hesaba katıldığında, sistemin genel işletme yapısı size ortalama %85 net kâr sunar. Yani her 100 TL\'lik satıştan yalnızca 15 TL\'si gider olarak yansırken, geri kalan 85 TL doğrudan cebinize kalır. Düşük sarfiyat – yüksek verim prensibiyle çalışan SUDO, sürdürülebilir bir gelir modeli sunarken, enerji ve su tüketiminde tasarrufun gücünü size kazanca dönüştürme imkânı verir.'
     },
     {
       category: 'teknik',
@@ -73,7 +73,7 @@ export default function FAQPage() {
         <div className="container-custom">
           <h1 className="text-5xl font-bold mb-6 text-white">Sık Sorulan Sorular</h1>
           <p className="text-xl max-w-3xl">
-            C Vitaminli su otomatlarımız ve hizmetlerimiz hakkında sık sorulan soruların cevaplarını 
+            C Vitaminli içecek otomatlarımız ve hizmetlerimiz hakkında sık sorulan soruların cevaplarını 
             burada bulabilirsiniz. Aradığınız cevabı bulamadıysanız lütfen bizimle iletişime geçin.
           </p>
         </div>
