@@ -47,7 +47,7 @@ export default function ServicesPage() {
           <h1 className="text-5xl font-bold mb-6 text-white">Hizmetlerimiz</h1>
           <p className="text-xl max-w-3xl">
             SUDO olarak, işletmeler ve toplu yaşam alanları için
-            en kaliteli C vitaminli içecek satma makinelerini ve arıtma çözümlerini sunuyoruz.
+            en kaliteli C vitaminli içecek dolum makinelerini ve arıtma çözümlerini sunuyoruz.
             Tüm ihtiyaçlarınız için özel çözümlerimiz mevcut.
           </p>
         </div>

@@ -14,7 +14,7 @@ export default function AboutPage() {
         <div className="container-custom">
           <h1 className="text-5xl font-bold mb-6 text-white">Hakkımızda</h1>
           <p className="text-xl max-w-3xl">
-            SUDO olarak, Türkiye'nin her noktasına modern içecek satma makineleri 
+            SUDO olarak, Türkiye'nin her noktasına modern içecek dolum makineleri 
             ve arıtma çözümleri sunuyoruz. Güvenilir, sağlıklı ve yenilikçi hizmet anlayışımızla
             sektörün lider kuruluşu olmaktan gurur duyuyoruz.
           </p>
@@ -28,14 +28,14 @@ export default function AboutPage() {
             <div className="w-full md:w-1/2">
               <h2 className="text-3xl font-bold mb-6 text-primary">Hikayemiz</h2>
               <p className="text-gray-700 mb-4">
-                2023 yılında Manisa'da kurulan SUDO, içecek arıtma ve satış makineleri sektöründe yenilikçi bir vizyon ile yola çıktı. 
+                2023 yılında Manisa'da kurulan SUDO, içecek arıtma ve dolum makineleri sektöründe yenilikçi bir vizyon ile yola çıktı. 
                 Türkiye'nin artan kaliteli içecek ihtiyacını kaliteli ve ekonomik bir şekilde karşılamak amacıyla kurulan firmamız, 
                 kısa sürede alanında öncü kuruluşlardan biri haline geldi.
               </p>
               <p className="text-gray-700 mb-4">
                 Kuruluşundan itibaren Manisa ve çevre illerde hizmet veren şirketimiz, 
                 artan talep ve genişleyen vizyonu sayesinde hızla büyüyerek daha geniş bir alana hizmet vermeye başladı. 
-                Bugün birçok ilde SUDO içecek satma makineleri aktif olarak hizmet vermektedir.
+                Bugün birçok ilde SUDO içecek dolum makineleri aktif olarak hizmet vermektedir.
               </p>
               <p className="text-gray-700">
                 Müşteri memnuniyeti ve kaliteli hizmet anlayışımız, bizi sektörün güvenilir markası haline getirdi. 
@@ -44,7 +44,7 @@ export default function AboutPage() {
               </p>
             </div>
             <div className="w-full md:w-1/2 rounded-xl overflow-hidden shadow-lg">
-              <img src="/images/1.png" alt="SUDO İçecek Satma Makinesi" className="w-full h-full object-cover" />
+              <img src="/images/1.png" alt="SUDO İçecek Dolum Makinesi" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
@@ -80,7 +80,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-2xl font-bold mb-4 text-primary">Vizyonumuz</h3>
               <p className="text-gray-700 mb-4">
-                İçecek arıtma ve satış teknolojilerinde Türkiye'nin lider markası olmak ve global pazarda 
+                İçecek arıtma ve dolum teknolojilerinde Türkiye'nin lider markası olmak ve global pazarda 
                 tanınan bir marka haline gelmek.
               </p>
               <p className="text-gray-700">
@@ -100,7 +100,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-blue-50 rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl">
               <div className="h-64 overflow-hidden">
-                <img src="/images/1.png" alt="SUDO İçecek Makinesi 1" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
+                <img src="/images/1.png" alt="SUDO İçecek Dolum Makinesi 1" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-bold text-primary mb-2">SUDO C Vitaminli İçecek</h3>
@@ -110,17 +110,17 @@ export default function AboutPage() {
 
             <div className="bg-blue-50 rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl">
               <div className="h-64 overflow-hidden">
-                <img src="/images/2.png" alt="SUDO İçecek Makinesi 2" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
+                <img src="/images/2.png" alt="SUDO İçecek Dolum Makinesi 2" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-bold text-primary mb-2">SUDO 7/24 Hizmet</h3>
-                <p className="text-gray-600 mb-4">Çevre dostu 7/24 içecek satma makinelerimiz işletmenizde fark yaratır</p>
+                <p className="text-gray-600 mb-4">Çevre dostu 7/24 içecek dolum makinelerimiz işletmenizde fark yaratır</p>
               </div>
             </div>
 
             <div className="bg-blue-50 rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl">
               <div className="h-64 overflow-hidden">
-                <img src="/images/3.png" alt="SUDO İçecek Makinesi 3" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
+                <img src="/images/3.png" alt="SUDO İçecek Dolum Makinesi 3" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-bold text-primary mb-2">SUDO Premium</h3>

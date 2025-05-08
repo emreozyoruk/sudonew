@@ -45,7 +45,7 @@ export default function HomePage() {
             <div className="max-w-xl">
               <h1 className="text-5xl md:text-6xl font-bold mb-4 text-primary">
                 SUDO <br />
-                <span className="text-blue-500">C Vitaminli İçecek Otomat Makineleri</span>
+                <span className="text-blue-500">C Vitaminli İçecek Dolum Makineleri</span>
               </h1>
               <p className="text-xl md:text-2xl mb-8 text-gray-700">
                 Her Zaman Taze, C Vitaminli, Mineralli, Sağlıklı
@@ -65,7 +65,7 @@ export default function HomePage() {
             <div className={`relative ${isLoaded ? 'animate-slide-in-right' : 'translate-x-full opacity-0'} transition-all duration-1000`}>
               <img 
                 src="/images/1-removebg-preview.png" 
-                alt="SUDO İçecek Satma Makinesi" 
+                alt="SUDO İçecek Dolum Makinesi" 
                 className="w-full h-auto object-contain max-h-[80vh]"
               />
             </div>
@@ -96,14 +96,14 @@ export default function HomePage() {
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 text-primary">Ürünlerimiz</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Modern, kaliteli ve kullanıcı dostu içecek satma makinelerimiz ile tanışın
+              Modern, kaliteli ve kullanıcı dostu içecek dolum makinelerimiz ile tanışın
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-blue-50 rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl">
               <div className="h-64 overflow-hidden">
-                <img src="/images/1.png" alt="SUDO İçecek Satma Makinesi 1" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
+                <img src="/images/1.png" alt="SUDO İçecek Dolum Makinesi 1" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-bold text-primary mb-2">SUDO C Vitaminli İçecek</h3>
@@ -119,11 +119,11 @@ export default function HomePage() {
 
             <div className="bg-blue-50 rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl">
               <div className="h-64 overflow-hidden">
-                <img src="/images/2.png" alt="SUDO İçecek Satma Makinesi 2" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
+                <img src="/images/2.png" alt="SUDO İçecek Dolum Makinesi 2" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-bold text-primary mb-2">SUDO 7/24 Hizmet</h3>
-                <p className="text-gray-600 mb-4">Çevre dostu 7/24 içecek satma makinelerimiz işletmenizde fark yaratır</p>
+                <p className="text-gray-600 mb-4">Çevre dostu 7/24 içecek dolum makinelerimiz işletmenizde fark yaratır</p>
                 <Link to="/hizmetlerimiz" className="text-blue-600 font-medium hover:text-blue-800 flex items-center">
                   <span>Detaylar</span>
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -135,7 +135,7 @@ export default function HomePage() {
 
             <div className="bg-blue-50 rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:shadow-xl">
               <div className="h-64 overflow-hidden">
-                <img src="/images/3.png" alt="SUDO İçecek Satma Makinesi 3" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
+                <img src="/images/3.png" alt="SUDO İçecek Dolum Makinesi 3" className="w-full h-full object-cover hover:scale-105 transition-all duration-500" />
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-bold text-primary mb-2">SUDO Premium</h3>
@@ -156,9 +156,9 @@ export default function HomePage() {
       <section ref={featuresRef} className="py-20 bg-blue-50">
         <div className="container-custom">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-primary">İçecek Satma Makinelerimizin Avantajları</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-primary">İçecek Dolum Makinelerimizin Avantajları</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Modern, güvenilir ve kullanımı kolay içecek satma makinelerimiz ile işletmeniz için doğru çözümü sunuyoruz.
+              Modern, güvenilir ve kullanımı kolay içecek dolum makinelerimiz ile işletmeniz için doğru çözümü sunuyoruz.
             </p>
           </div>
           
@@ -268,9 +268,9 @@ export default function HomePage() {
       <section className="py-20 bg-white">
         <div className="container-custom">
           <div className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-2xl p-8 md:p-12 shadow-xl text-white text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">İçecek Satma Makinesi Tedarik Etmeye Hazır Mısınız?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">İçecek Dolum Makinesi Tedarik Etmeye Hazır Mısınız?</h2>
             <p className="text-xl mb-8 max-w-3xl mx-auto">
-              SUDO içecek makinelerimiz, modern teknoloji ile güvenilir hizmeti bir araya getirerek, işletmenize değer katar.
+              SUDO içecek dolum makinelerimiz, modern teknoloji ile güvenilir hizmeti bir araya getirerek, işletmenize değer katar.
             </p>
             <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
               <Link to="/iletisim" className="btn bg-white text-primary hover:bg-blue-100 transition-colors">

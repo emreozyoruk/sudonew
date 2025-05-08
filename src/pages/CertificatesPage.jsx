@@ -27,7 +27,7 @@ export default function CertificatesPage() {
           <div className="bg-white rounded-xl p-8 shadow-lg mb-12">
             <h2 className="text-3xl font-bold mb-8 text-primary border-b pb-4">Kalite ve Güvenlik Sertifikalarımız</h2>
             <p className="text-lg text-gray-600 mb-8">
-              EMC ELEKTRİK & OTOMASYON olarak, ürettiğimiz içecek satma makinelerinin en yüksek kalite ve güvenlik standartlarına 
+              EMC ELEKTRİK & OTOMASYON olarak, ürettiğimiz içecek dolum makinelerinin en yüksek kalite ve güvenlik standartlarına 
               uygunluğunu belgeleyen sertifikalarımızı inceleyebilirsiniz. Bu sertifikalar, ürünlerimizin ulusal ve 
               uluslararası standartlara uygunluğunu kanıtlamaktadır.
             </p>
@@ -38,7 +38,7 @@ export default function CertificatesPage() {
             <div className="mt-8 p-6 bg-blue-50 rounded-lg">
               <h3 className="text-xl font-bold mb-3 text-primary">Sertifikalarımız Hakkında</h3>
               <p className="text-gray-700">
-                Yukarıda gösterilen sertifikalar, EMC ELEKTRİK & OTOMASYON'un üretim tesislerinin ve içecek satma makinelerinin 
+                Yukarıda gösterilen sertifikalar, EMC ELEKTRİK & OTOMASYON'un üretim tesislerinin ve içecek dolum makinelerinin 
                 aşağıdaki standartlara uygunluğunu belgelemektedir:
               </p>
               <ul className="list-disc list-inside mt-4 space-y-2 text-gray-700">

@@ -14,7 +14,7 @@ export default function GalleryPage() {
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-primary">Ürün Galerimiz</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            SUDO modern içecek satma makinelerimizin fotoğraflarını ve kurulum örneklerini keşfedin.
+            SUDO modern içecek dolum makinelerimizin fotoğraflarını ve kurulum örneklerini keşfedin.
           </p>
         </div>
         
@@ -37,7 +37,7 @@ export default function GalleryPage() {
         <div className="bg-gradient-to-r from-blue-500 to-blue-700 rounded-2xl p-8 md:p-12 shadow-xl text-white text-center">
           <h2 className="text-3xl font-bold mb-4">Özel Teklifler İçin Bize Ulaşın</h2>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            İşletmeniz için en uygun SUDO içecek satma makinesi modellerini seçmek ve özel fiyat teklifleri almak için bizimle iletişime geçin.
+            İşletmeniz için en uygun SUDO içecek dolum makinesi modellerini seçmek ve özel fiyat teklifleri almak için bizimle iletişime geçin.
           </p>
           <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
             <button className="btn bg-white text-primary hover:bg-blue-100 transition-colors">
